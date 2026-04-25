@@ -30,7 +30,7 @@ local Config = {
 
     -- [3] Scripts & Links
 
-    MainScriptURL   = "https://raw.githubusercontent.com/tmpro285-blip/GetKeyGrink/refs/heads/main/GrinkHub.lua"
+    MainScriptURL   = "https://raw.githubusercontent.com/tmpro285-blip/GetKeyGrink/refs/heads/main/GrinkHub.lua",
     
 
     -- [4] Social Media Settings (Set to true to show, false to hide)
